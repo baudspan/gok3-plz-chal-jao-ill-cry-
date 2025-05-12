@@ -18,7 +18,7 @@ text("Use Arrow Keys: ↑ Forward, ← Left, → Right", 20, 100);
 
 
 function preload() {
-  trackImg = loadImage('assets/4.png');
+  trackImg = loadImage('assets/4 (2) (1).png');
   playerImg = loadImage('assets/1gokart.png');
  
 
